@@ -18,7 +18,6 @@ public class AssignmentOne {
 	
 	@Test
 	public void authentication() {
-		
 		RestAssured.baseURI="https://refyne-car-rental.herokuapp.com/api/";
 		
 		
